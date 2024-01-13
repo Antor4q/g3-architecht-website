@@ -96,9 +96,9 @@ main{
 /* facts section */
 .facts-cards-container .card{
     border-radius: 8px;
-border: 1px solid #FF900E;
-text-align: center;
-padding:30px;
+    border: 1px solid #FF900E;
+    text-align: center;
+    padding:30px;
 }
 .facts-cards-container{
     display:flex;
