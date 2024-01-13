@@ -64,7 +64,7 @@ nav li a{
 }
 
 /* main styles */
-main{
+main, footer{
     max-width:1440px;
     margin:70px auto;
 }
@@ -167,6 +167,13 @@ main{
 }
 .sponsors-img-container img{
     width:165px;
+}
+footer{
+    border-radius: 8px;
+    background: #FFF4E7;
+    text-align: center;
+    padding:40px 0;
+    color:#424242;
 }
 /* responsive styles */
 /* mobile devices */
